@@ -23,6 +23,9 @@ ipch
 *.user
 *.sdf
 *.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
 *.VC.db
 *.VC.VC.opendb
 
