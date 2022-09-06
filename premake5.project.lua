@@ -13,7 +13,11 @@ project "imgui"
         "*.cpp",
         "*.h",
         "*.inl",
-        "*.lua"
+        "*.lua",
+        "backends/imgui_impl_dx9.cpp",
+        "backends/imgui_impl_dx9.h",
+        "backends/imgui_impl_win32.cpp",
+        "backends/imgui_impl_win32.h",
     }
 
     includedirs {
